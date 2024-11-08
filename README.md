@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fariha Rahman Saba. I am a Technical Support Executive at Programming Hero. I am also doing my Masters in CSE at Jahangirnagar University, Bangladesh.</h1>
-<h3 align="center">A passionate web developer and a programmer.</h3>
+<h1 align="center">Hi 👋, I'm Fariha Rahman Saba. I am a SQA Engineer @DSi. I am also doing my Masters in CSE at Jahangirnagar University, Bangladesh.</h1>
+<h3 align="center">A passionate Tester, Web Developer and Problem Solver.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fariha-rahman-saba&label=Profile%20views&color=0e75b6&style=flat" alt="fariha-rahman-saba" /> </p>
 
